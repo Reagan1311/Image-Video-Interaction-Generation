@@ -20,3 +20,7 @@ Collection of papers on human-object-interaction generation
 
 ### 2022
 - `NeurIPS` :mag_right: Hand-Object Interaction Image Generation [[project]](https://play-with-hoi-generation.github.io/) [[code]](https://github.com/play-with-HOI-generation/HOIG)
+
+### MISC.
+
+**[Image Inpainting]** LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions [[code]](https://github.com/advimman/lama)
