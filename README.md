@@ -17,10 +17,15 @@ Collection of papers on human-object-interaction generation
 
 ### 2023
 - `CVPR` :mag_right: Putting People in Their Place: Affordance-Aware Human Insertion into Scenes [[project]](https://sumith1896.github.io/affordance-insertion/) [[code]](https://github.com/adobe-research/affordance-insertion)
+- `CVPR` :mag_right: Affordance Diffusion: Synthesizing Hand-Object Interactions [[project]](https://judyye.github.io/affordiffusion-www/) [[code]](https://github.com/NVlabs/affordance_diffusion)
 
 ### 2022
 - `NeurIPS` :mag_right: Hand-Object Interaction Image Generation [[project]](https://play-with-hoi-generation.github.io/) [[code]](https://github.com/play-with-HOI-generation/HOIG)
 
-### MISC.
+## MISC.
 
-**[Image Inpainting]** LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions [[code]](https://github.com/advimman/lama)
+### Dataset
+- `ICCV2023` AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose [[project]](https://affordpose.github.io/) [[code]](https://github.com/GentlesJan/AffordPose)
+
+### Method
+- **[Image Inpainting]** LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions [[code]](https://github.com/advimman/lama)
