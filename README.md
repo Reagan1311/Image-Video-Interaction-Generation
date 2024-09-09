@@ -11,6 +11,8 @@ Collection of papers on human-object-interaction generation
 
 - `ArXiv` VirtualModel: Generating Object-ID-retentive Human-object Interaction Image by Diffusion Model for E-commerce Marketing [[project]](https://aigcdesigngroup.github.io/replace-anything/)
 
+- `CVPR` :mag_right: GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos [[project]](https://soczech.github.io/genhowto/) [[code]](https://github.com/soCzech/genhowto)
+
 - `CVPR` :mag_right: InteractDiffusion: Interaction-Control for Text-to-Image Diffusion Model [[project]](https://jiuntian.github.io/interactdiffusion/) [[code]](https://github.com/jiuntian/interactdiffusion)
 
 - `CVPR` :mag_right: Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [[project]](https://yangchanghee.github.io/Person-in-Place_page/) [[code]](https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE)
