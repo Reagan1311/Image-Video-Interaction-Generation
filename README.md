@@ -5,7 +5,7 @@ Collection of papers on human-object-interaction generation
 :mag_right: Code Available
 
 ### 2024
-- `ECCV` Controlling the World by Sleight of Hand [[project]](https://coshand.cs.columbia.edu/)
+- `ECCV` :mag_right: Controlling the World by Sleight of Hand [[project]](https://coshand.cs.columbia.edu/) [[code]](https://github.com/SruthiSudhakar/CosHand)
 
 - `ECCV` HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance [[code-unavailable]](https://github.com/Enderfga/HumanRefiner)
 
