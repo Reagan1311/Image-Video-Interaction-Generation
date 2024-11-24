@@ -4,7 +4,15 @@ Collection of papers on human-object-interaction generation
 ## Image Generation
 :mag_right: Code Available
 
+### Preprint
+- GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[paper]](https://arxiv.org/abs/2410.13911)
+- Hand1000: Generating Realistic Hands from Text with Only 1,000 Images [[paper]](https://arxiv.org/abs/2408.15461)
+
 ### 2024
+- `WACV` HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images [[project]](https://kfzyqin.github.io/handcraft/)
+
+- `ECCV-oral` :mag_right: AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild [[project]](https://redorangeyellowy.github.io/AttentionHand/) [[code]](https://github.com/redorangeyellowy/AttentionHand)
+
 - `ECCV` :mag_right: Controlling the World by Sleight of Hand [[project]](https://coshand.cs.columbia.edu/) [[code]](https://github.com/SruthiSudhakar/CosHand)
 
 - `ECCV` HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance [[code-unavailable]](https://github.com/Enderfga/HumanRefiner)
