@@ -19,6 +19,8 @@ Collection of papers on human-object-interaction generation
 
 - `ECCV` HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance [[code-unavailable]](https://github.com/Enderfga/HumanRefiner)
 
+- `ACMMM` :mag_right: HandRefiner: Refining Malformed Hands in Generated Images by Diffusion-based Conditional Inpainting [[code]](https://github.com/wenquanlu/HandRefiner)
+
 - `ACMMM` :mag_right: ReCorD: Reasoning and Correcting Diffusion for HOI Generation [[project]](https://alberthkyhky.github.io/ReCorD/) [[code]](https://github.com/j1anglin/ReCorD) 
 
 - `ICME` :mag_right: Semantic-Aware Human Object Interaction Image Generation [[project]](https://sites.google.com/view/sa-hoi/) [[code]](https://github.com/XZPKU/SA-HOI)
