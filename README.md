@@ -47,7 +47,11 @@ Collection of papers on human-object-interaction generation
 ## MISC.
 
 ### Dataset
-- `ICCV2023` AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose [[project]](https://affordpose.github.io/) [[code]](https://github.com/GentlesJan/AffordPose)
+- `CVPR'24` TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding [[project]](https://taco2024.github.io/) [[code]](https://github.com/leolyliu/TACO-Instructions)
+
+- `CVPR'24` OakInk2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion [[project]](https://oakink.net/v2/) [[code]](https://github.com/oakink/OakInk2)
+
+- `ICCV'23` AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose [[project]](https://affordpose.github.io/) [[code]](https://github.com/GentlesJan/AffordPose)
 
 ### Method
 - **[Image Inpainting]** LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions [[code]](https://github.com/advimman/lama)
