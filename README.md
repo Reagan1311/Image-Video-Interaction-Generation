@@ -12,7 +12,7 @@ Collection of papers on human-object-interaction generation
 ## Image Generation
 :mag_right: Code Available
 
-### Hand /Egocentric Interaction
+### Hand / Egocentric Interaction
 - `arxiv` Hand1000: Generating Realistic Hands from Text with Only 1,000 Images [[paper]](https://arxiv.org/abs/2408.15461)
 - `ECCV'24-oral-best-paper-finalist` :mag_right: LEGO: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild [[project]](https://bolinlai.github.io/Lego_EgoActGen/) [[code]](https://github.com/BolinLai/LEGO?tab=readme-ov-file)
 - `ECCV'24-oral` :mag_right: AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild [[project]](https://redorangeyellowy.github.io/AttentionHand/) [[code]](https://github.com/redorangeyellowy/AttentionHand)
@@ -39,10 +39,9 @@ Collection of papers on human-object-interaction generation
 
 ### Dataset
 - `CVPR'24` TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding [[project]](https://taco2024.github.io/) [[code]](https://github.com/leolyliu/TACO-Instructions)
-
 - `CVPR'24` OakInk2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion [[project]](https://oakink.net/v2/) [[code]](https://github.com/oakink/OakInk2)
-
 - `ICCV'23` AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose [[project]](https://affordpose.github.io/) [[code]](https://github.com/GentlesJan/AffordPose)
+- `CVPR'22` HOI4D: A 4D Egocentric Dataset for Category-Level Human-Object Interaction
 
 ### Method
 - **[Image Inpainting]** LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions [[code]](https://github.com/advimman/lama)
