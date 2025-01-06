@@ -7,6 +7,8 @@ Collection of papers on human-object-interaction generation
 ### Preprint
 - GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[paper]](https://arxiv.org/abs/2410.13911)
 - Hand1000: Generating Realistic Hands from Text with Only 1,000 Images [[paper]](https://arxiv.org/abs/2408.15461)
+- InterDyn: Controllable Interactive Dynamics with Video Diffusion Models [[paper]](https://arxiv.org/abs/2412.11785)
+- Instructional Video Generation [[paper]](https://arxiv.org/abs/2412.04189)
 
 ### 2024
 - `WACV` HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images [[project]](https://kfzyqin.github.io/handcraft/)
