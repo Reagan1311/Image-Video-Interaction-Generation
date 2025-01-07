@@ -5,6 +5,7 @@ Collection of papers on human-object-interaction generation
 ### Hand / Egocentric Interaction
 - `arxiv` InterDyn: Controllable Interactive Dynamics with Video Diffusion Models [[paper]](https://arxiv.org/abs/2412.11785)
 - `arxiv` Instructional Video Generation [[paper]](https://arxiv.org/abs/2412.04189)
+- `arxiv`	EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation [[paper]](https://arxiv.org/abs/2411.08380)
 
 ### Whole-body Interaction
 - TBD
