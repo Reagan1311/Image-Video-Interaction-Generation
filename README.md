@@ -1,5 +1,5 @@
-# Awesome-HOI-Generation
-A collection of papers on human-object-interaction generation. Feel free to star the repo and contribute via pull requests!
+# Image-Video-Interaction-Generation
+A collection of papers on Image / Video Interaction Generation. Feel free to star the repo and contribute via pull requests!
 
 ## Video Generation
 ### Hand / Egocentric Interaction
